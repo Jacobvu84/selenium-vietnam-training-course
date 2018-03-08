@@ -1,2 +1,0 @@
-class WebiumException(Exception):
-    pass
