@@ -1,0 +1,30 @@
+1520550468915	geckodriver	INFO	geckodriver 0.19.0 (f0b5f3476d8b05a3bacebb06056ff933e26a17fa 2017-09-16)
+1520550468924	geckodriver	INFO	Listening on 127.0.0.1:61502
+1520550471025	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofile.6mJ5FSZoVYlw"
+1520550471597	Marionette	INFO	Enabled via --marionette
+[GPU 5020] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1520550472770	Marionette	INFO	Listening on port 61508
+1520550472779	Marionette	INFO	Listening on port 61508
+1520550473044	Marionette	WARN	TLS certificate errors will be ignored for this session
+1520550473077	Marionette	DEBUG	loaded listener.js
+1520550473128	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1520550474764	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1520550474765	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1520550475957	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://vsee.io/wr/4.8.1/"
+1520550478258	Marionette	DEBUG	Received DOM event "pageshow" for "https://vsee.io/wr/4.8.1/"
+1520550478504	Marionette	DEBUG	Received DOM event "beforeunload" for "https://vsee.io/wr/4.8.1/"
+1520550479680	Marionette	DEBUG	Received DOM event "pagehide" for "https://vsee.io/wr/4.8.1/"
+1520550479683	Marionette	DEBUG	Received DOM event "unload" for "https://vsee.io/wr/4.8.1/"
+1520550479750	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://vsee.io/wr/4.8.1/admin/"
+1520550480349	Marionette	DEBUG	Received DOM event "pageshow" for "https://vsee.io/wr/4.8.1/admin/"
+1520550485450	Marionette	DEBUG	Received DOM event "beforeunload" for "https://vsee.io/wr/4.8.1/admin/"
+1520550486366	Marionette	DEBUG	Received DOM event "pagehide" for "https://vsee.io/wr/4.8.1/admin/"
+1520550486368	Marionette	DEBUG	Received DOM event "unload" for "https://vsee.io/wr/4.8.1/admin/"
+1520550486771	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://vsee.io/wr/4.8.1/admin/one_click/providers"
+1520550487442	Marionette	DEBUG	Received DOM event "pageshow" for "https://vsee.io/wr/4.8.1/admin/one_click/providers"
+1520550487742	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520550488217	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520550488460	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520550488844	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520550499461	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520550504282	Marionette	INFO	New connections will no longer be accepted
