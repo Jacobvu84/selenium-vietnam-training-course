@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<RDF:RDF xmlns:NC="http://home.netscape.com/NC-rdf#"
+         xmlns:RDF="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <RDF:Seq RDF:about="urn:schemes:root">
+    <RDF:li RDF:resource="urn:scheme:vsee"/>
+  </RDF:Seq>
+  <RDF:Description RDF:about="urn:scheme:vsee"
+                   NC:value="vsee">
+    <NC:handlerProp RDF:resource="urn:scheme:handler:vsee"/>
+  </RDF:Description>
+  <RDF:Description RDF:about="urn:scheme:handler:vsee"
+                   NC:useSystemDefault="true"
+                   NC:alwaysAsk="false" />
+</RDF:RDF>
