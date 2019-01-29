@@ -9,7 +9,7 @@
   * Questions Tracking: https://goo.gl/JQp4Ls
 
 ## Personal:
-  * Website: http://asksqa.com/training
+  * Website: http://asksqa.blogspot.com/2018/04/nhung-loi-ich-khi-ban-tham-gia-khoa-hoc.html
   * FB: https://goo.gl/bdzZhL
   * Linked: https://goo.gl/AfbF3U
   * Twitter: https://goo.gl/TtLsTR
